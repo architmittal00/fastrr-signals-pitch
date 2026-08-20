@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="437" height="245.868" viewBox="0 0 437 245.868">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="261.004" height="111.868"/>
+    </clipPath>
+  </defs>
+  <g id="Group_99" data-name="Group 99" transform="translate(106 -2058)">
+    <g id="Group_75" data-name="Group 75" transform="translate(-106 2127.454)">
+      <g id="Group_78" data-name="Group 78" transform="translate(0 0)">
+        <path id="Path_127" data-name="Path 127" d="M69.336,62.6l-64.3-.142C1.5,62.455-.1,57.357,0,54.935c.1-2.346,1.951-7.2,5.237-7.193l66.952.173c3.688.009,5.649,5.4,5.19,7.912A7.757,7.757,0,0,1,69.336,62.6" transform="translate(0 -20.059)" fill="#6037d7"/>
+        <path id="Path_128" data-name="Path 128" d="M71.255,38.944l-38.042.168a7.434,7.434,0,0,1-7.844-6.92c-.239-3.17,2.467-7.8,6.75-7.822l38.009-.212a7.979,7.979,0,0,1,7.54,5.974c.6,2.94-1.7,8.791-6.413,8.812" transform="translate(4.405 -24.157)" fill="#6037d7"/>
+      </g>
+    </g>
+    <text id="fastrr" transform="translate(-15 2185)" font-size="121" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">fastrr</tspan></text>
+    <g id="Group_91" data-name="Group 91" transform="translate(-15 2192)">
+      <g id="Mask_Group_90" data-name="Mask Group 90" clip-path="url(#clip-path)">
+        <text id="Signals" transform="translate(0.004 79.119)" font-size="70" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.009em"><tspan x="0" y="0">Signals</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
